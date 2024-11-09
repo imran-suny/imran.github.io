@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Imran Hossain"
 description              : &description "personal description"
 url                      : https://imran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "IMG_1906.jpg"
+  name             : "Imran Hossain"
+  pronouns         : # example: "he/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Xanw7RcAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
